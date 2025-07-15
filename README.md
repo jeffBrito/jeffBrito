@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o jefferson 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Java Fullstack & Flutter • Apaixonado por tecnologia</b>
+  <b>Desenvolvedor Java Fullstack & Flutter • Apaixonado por tecnologia a mais de 13 Anos</b>
 </p>
 
 ---
