@@ -28,7 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32"/>&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="32"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="32"/>&nbsp;
 
 ## ✉️ Contato
 
@@ -40,3 +41,4 @@
 <p align="center">
   <i>“Tecnologia é ferramenta. O que faz diferença é o que você constrói com ela.”</i>
 </p>
+
